@@ -54,9 +54,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Yuzhen_Lu
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en 
+- icon: "google-scholar"
+  icon_pack: "ai"
+  link: "https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en" 
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/jingweimo
