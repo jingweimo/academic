@@ -47,12 +47,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'ylu52@ncsu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jingweimo89
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
