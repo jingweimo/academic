@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ylu52@ncsu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ylu52@ncsu.edu'  # For a direct email link, use "mailto:ylu52@ncsu.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jingweimo89
