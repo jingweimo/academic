@@ -51,15 +51,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jingweimo89
-- icon: ai-google-scholar-square
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Yuzhen_Lu
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en 
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/jingweimo
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Yuzhen_Lu
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
