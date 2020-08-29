@@ -10,20 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: North Carolina State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include optical sensing, machine vision, precision agriculture, food inspection and data analytics.
+bio: My research interests include optical sensing, machine vision, precision agriculture, food assessment and data analytics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Optical Sensing
+- Machine Vision
+- Precision Agriculture
+- Food Inspection
+- Data Analytics
 
 education:
   courses:
@@ -47,13 +49,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jingweimo89
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jingweimo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
