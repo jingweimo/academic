@@ -23,8 +23,9 @@ bio: My research interests include optical sensing, machine vision, precision ag
 interests:
 - Optical Sensing
 - Machine Vision
-- Precision Agriculture
 - Food Inspection
+- Precision Agriculture
+- Plant Phenotyping
 - Data Analytics
 
 education:
