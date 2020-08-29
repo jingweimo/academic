@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuzhen Lu
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include optical sensing, machine vision, precision agriculture, food inspection and data analytics.
 
 interests:
 - Artificial Intelligence
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biosystems Engineering
+    institution: Michigan State University
+    year: 2018
+  - course: MS in Plant Nutrition
+    institution: Insitute of Soil Sicence, Chinese Academy of Sciences
+    year: 2014
+  - course: BS in Facility Agriculture Science and Engineering
+    institution: Northwest A&F University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yuzhen Lu is a postdoctoral research scholar in the DAISy lab at NC State University. Before this position, Dr. Lu worked a research associate for USDA-ARS on nondestructive postharvest sensing and quality evaluation of horticultural production, and apple harvest-assist and in-field sorting technology development. Currently his research is multi-faceted, involving hyperspectral imaging technology for high-throughput plant phenotyping, public database creation and algorithm development for robotic weeding, and ground/drone based spectral imaging for precision agriculture applications. Dr. Lu has a philosophical vision of multi-disciplinary systems approaches in agricultural sciences and engineering, and embraces collaborating with professionals of diverse disciplines.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
