@@ -15,7 +15,7 @@ role: Postdoctoral Research Scholar
 # Organizations/Affiliations
 organizations:
 - name: North Carolina State University
-  url: ""
+  url: "https://www.bae.ncsu.edu/people/ylu52/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include optical sensing, machine vision, precision agriculture, food assessment and data analytics.
@@ -53,7 +53,7 @@ social:
   link: https://twitter.com/jingweimo89
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en 
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/jingweimo
@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-Yuzhen Lu is a postdoctoral research scholar in the DAISy lab at NC State University. Before this position, Dr. Lu worked a research associate for USDA-ARS on nondestructive postharvest sensing and quality evaluation of horticultural production, and apple harvest-assist and in-field sorting technology development. Currently his research is multi-faceted, involving hyperspectral imaging technology for high-throughput plant phenotyping, public database creation and algorithm development for robotic weeding, and ground/drone based spectral imaging for precision agriculture applications. Dr. Lu has a philosophical vision of multi-disciplinary systems approaches in agricultural sciences and engineering, and embraces collaborating with professionals of diverse disciplines.
+Yuzhen Lu is a postdoctoral research scholar in the DAISy lab (https://thedaisylab.com/) at NC State University. Before this position, Dr. Lu worked a research associate for USDA-ARS on nondestructive postharvest sensing and quality evaluation of horticultural production, and apple harvest-assist and in-field sorting technology development. Currently his research is multi-faceted, involving hyperspectral imaging technology for high-throughput plant phenotyping, public database creation and algorithm development for robotic weeding, and ground/drone based spectral imaging for precision agriculture applications. Dr. Lu has a philosophical vision of multi-disciplinary systems approaches in agricultural sciences and engineering, and embraces collaborating with professionals of diverse disciplines.
