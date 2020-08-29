@@ -51,9 +51,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jingweimo89
-# - icon: researchgate
-#  icon_pack: fab
-#  link: https://www.researchgate.net/profile/Yuzhen_Lu
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en 
