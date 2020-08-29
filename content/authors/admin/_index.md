@@ -51,7 +51,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jingweimo89
-- icon: google-scholar
+- icon: ai-google-scholar-square
   icon_pack: ai
   link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en 
 # - icon: github
