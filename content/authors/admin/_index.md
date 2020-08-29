@@ -56,7 +56,10 @@ social:
   link: https://www.researchgate.net/profile/Yuzhen_Lu
 - icon: graduation-cap
   icon_pack: fas
-  link: "https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en" 
+  link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yuzhen-lu-874a2294/
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/jingweimo
